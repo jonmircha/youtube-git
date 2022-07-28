@@ -1,0 +1,100 @@
+commit 6f63b335392b913e37ba5ea80d3350ba4beea7a1
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:37:54 2022 -0500
+
+    Agregando 2 párrafos
+
+commit ddaded26e53f93cc291a158e54942b9fdef07c06
+Merge: 667ca30 e91e228
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:35:57 2022 -0500
+
+    Resolviendo conflicto en  estaciones del año y fechas de inicio
+
+commit 667ca30449604ebc9e6858dc27c83b4a49fe5be6
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:22:00 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e91e22857f35ae5fdc32f0f0df6c4b02ed6ddd56
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:22:00 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 75f5772c25dab5b8e747a2d985393bb16cf6a07e
+Merge: b92ef2f cfdec2f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:11:22 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit cfdec2f4159353903cbd955eb9ece45ce52c1943
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:06:17 2022 -0500
+
+    Agregando index.js al index.html
+
+commit b92ef2f2071a355d9107a6ac4b3a9af2919e9431
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 12:04:48 2022 -0500
+
+    Agregando style.css al index.html
+
+commit c28a61806c5dacbb680bb8155e7f546b778f32da
+Merge: 3f5a35d 7213b76
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 10:57:28 2022 -0500
+
+    Merge branch 'js'
+
+commit 7213b768ad00f508317714bacf67f040980cdd21
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 10:47:49 2022 -0500
+
+    Creando index.js
+
+commit 3f5a35df65613943dfdf7c8f22b4b69076e1916a
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 10:43:48 2022 -0500
+
+    Creando style.css
+
+commit 10cde55ad2bc6f4b6234caa50e2912b777da5ccf
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 10:39:54 2022 -0500
+
+    Creando index.html
+
+commit 093f62f07060e68c537e32d2efab67edfaccdcd2
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 10:23:30 2022 -0500
+
+    Ignorando archivos .exe
+
+commit eeadbdab55b180d0fb0bf586a952c2490fb12485
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Wed Jul 27 13:21:09 2022 -0500
+
+    Creando licencia del repositorio
+
+commit e9fba2bc15b505f1540218579c9eec2b0d05f6ec
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Wed Jul 27 13:11:47 2022 -0500
+
+    Agregando más contenido al README
+
+commit fa5be5656244d8d4fc6260c5450e6c0f01594a40
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Wed Jul 27 12:34:57 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 27b3dbb149634f92ade992917e0a621c2a74288f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Wed Jul 27 12:30:01 2022 -0500
+
+    Primer commit 😃
+
+
