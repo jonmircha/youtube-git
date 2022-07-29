@@ -1,3 +1,42 @@
+commit 606128ff57b55b7566e7be50edd6fa1999b2fdc9
+Merge: b1c7970 e17f161
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 19:27:50 2022 -0500
+
+    Merge pull request #1 from jonamerike/readme-amerike
+    
+    Readme amerike
+
+commit e17f16168361a1b36a178339c1c0673994803ef5
+Author: Jon Amerike <jmiranda@amerike.edu.mx>
+Date:   Thu Jul 28 19:13:13 2022 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit 244760bb1c11792dc51bb945798d8d60d18efc1e
+Author: Jon Amerike <jmiranda@amerike.edu.mx>
+Date:   Thu Jul 28 18:56:52 2022 -0500
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit b1c7970886ba28227b4afc3a21f353b75db73a4a
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 18:23:58 2022 -0500
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 5e14be1336a54a01da5f6bad6389685c3a2b6f62
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 18:05:25 2022 -0500
+
+    v1.0.0
+
+commit 83b5486d0b66dedd428ec5e42123daaa21657427
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Jul 28 16:49:29 2022 -0500
+
+    Respaldando logs del repositorio
+
 commit 6f63b335392b913e37ba5ea80d3350ba4beea7a1
 Author: Jonathan MirCha <jonmircha@gmail.com>
 Date:   Thu Jul 28 12:37:54 2022 -0500
@@ -96,5 +135,3 @@ Author: Jonathan MirCha <jonmircha@gmail.com>
 Date:   Wed Jul 27 12:30:01 2022 -0500
 
     Primer commit 😃
-
-
